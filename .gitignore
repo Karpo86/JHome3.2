@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 /.idea
 /JHome3.2.iml
+
 ### Eclipse ###
 .apt_generated
 .classpath
